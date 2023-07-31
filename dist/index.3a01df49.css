@@ -58,4 +58,9 @@
   display: flex;
 }
 
+.filter-btn {
+  cursor: pointer;
+  margin: 10px;
+}
+
 /*# sourceMappingURL=index.3a01df49.css.map */

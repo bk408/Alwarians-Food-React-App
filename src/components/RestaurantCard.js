@@ -16,6 +16,7 @@ const RestaurantCard = (props) => {
     <div className="res-card">
       <img
         className="res-logo"
+        
         alt="res"
         src={
           CDN_URL +
